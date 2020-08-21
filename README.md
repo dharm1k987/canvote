@@ -1,10 +1,14 @@
 # CanVote :canada:
 
+## Video Demo
+
+[Click here to view the video](https://www.youtube.com/watch?v=pdOD73GqIrU&feature=youtu.be)
+
 ## Description of Web Application
 
 **CanVote** :canada:, short for Canada Vote, is a web application that allows Canadian voters to vote for a candidate in their electoral district in a quick and efficient fashion. As well, it features the ability to show real-time election results, allowing the public to understand the grasp of which direction the country is heading towards. Overall, the web application works in the confines of an election, where the election contains multiple political parties, and electoral districts (or ridings) with candidates from each political party.
 
-To ensure the stability of the election on **CanVote**, there are a variety of [user roles](#CanVote-Roles-and-User-Types) with different responsibilities. ~~As well, to ensure that a voter is who they say they are, they will be authenticated with two-factor authentication. The second factor of authentication will be a unique method of asking the voter to record themselves through HTML media capture saying a phrase randomly provided to them. When the recording is submitted, a combination of face and voice recognition technologies will be used to verify that the voter is indeed an individual registered to vote and is prepared to vote for themselves. With a combination of these features, it will make it harder for third-party manipulators to modify election results.~~
+To ensure the stability of the election on **CanVote**, there are a variety of [user roles](#CanVote-Roles-and-User-Types) with different responsibilities.
 
 *Side Note: For the sake of this project, the application will not account for all voters in the real-world as users of the application will have to speak english; can register with [an election officer](#election-officer-authenticated-user) beforehand; has access to a device with a modern browser; and has a webcam and voice recorder on their device.*
 
@@ -72,10 +76,5 @@ Like a real election, anyone can view voting results. As such, any user can view
 
 ## Authors
 
-- **[Alvin Tang](https://github.com/alvintangz)**
 - **[Dharmik Shah](https://github.com/dharm1k987)**
-- **[Mikhail Makarov](https://github.com/AVoxyz)**
-
-## Video Demo
-
-[Click here to view the video](https://www.youtube.com/watch?v=pdOD73GqIrU&feature=youtu.be)
+- **[Alvin Tang](https://github.com/alvintangz)**
